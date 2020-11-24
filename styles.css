@@ -1,0 +1,112 @@
+/* Navbar */
+.navbar{
+  background-color: #3039c5;
+}
+.navbar-brand{
+  font-size: 30px;
+  font-weight: bold;
+}
+.nav-link{
+  font-size: 25px;
+}
+#main{
+  background-color: #2f74e3;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+h1{
+color: #ffffff;
+padding: 30px 0px;
+font-size: 80px;
+text-align: center;
+text-shadow: 5px 0 #232931;
+font-family: 'Kaushan Script', cursive;
+}
+
+p{
+  font-size: 45px;
+  font-family: 'Signika Negative', sans-serif;
+}
+
+/* Drum Keys */
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.w {
+  background-image: url("images/tom1.png");
+}
+
+.a {
+  background-image: url("images/tom2.png");
+}
+
+.s {
+  background-image: url("images/tom3.png");
+}
+
+.d {
+  background-image: url("images/tom4.png");
+}
+
+.j {
+  background-image: url("images/snare.png");
+}
+
+.k {
+  background-image: url("images/crash.png");
+}
+
+.l {
+  background-image: url("images/kick.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+
+/* About The Game */
+.main2{
+  background-color: #4c8bf2;
+}
+.about{
+  font-size: 25px;
+  padding: 2% 2%;
+  text-align: center;
+  font-weight: bold;
+}
+h2{
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+/* Footer */
+#footer{
+  text-align: center;
+  background-color: #3039c5;
+  padding-bottom: 4%;
+}
+#footer p{
+  font-size: 20px;
+}
+.red {
+  color: red;
+}
